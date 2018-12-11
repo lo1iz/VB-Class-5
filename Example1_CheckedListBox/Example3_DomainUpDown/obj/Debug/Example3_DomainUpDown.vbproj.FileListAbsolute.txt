@@ -1,0 +1,23 @@
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\bin\Debug\Example3_DomainUpDown.exe.config
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\bin\Debug\Example3_DomainUpDown.exe
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\bin\Debug\Example3_DomainUpDown.pdb
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\bin\Debug\Example3_DomainUpDown.xml
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.Form1.resources
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.Resources.resources
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.vbproj.GenerateResource.cache
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.vbproj.CoreCompileInputs.cache
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.exe
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.xml
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.pdb
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.vbprojAssemblyReference.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\bin\Debug\Example3_DomainUpDown.exe.config
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\bin\Debug\Example3_DomainUpDown.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\bin\Debug\Example3_DomainUpDown.pdb
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\bin\Debug\Example3_DomainUpDown.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.Form1.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.Resources.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.vbproj.GenerateResource.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.vbproj.CoreCompileInputs.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example3_DomainUpDown\obj\Debug\Example3_DomainUpDown.pdb

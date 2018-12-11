@@ -1,0 +1,23 @@
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\bin\Debug\Example5_PictureBox.exe.config
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\bin\Debug\Example5_PictureBox.exe
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\bin\Debug\Example5_PictureBox.pdb
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\bin\Debug\Example5_PictureBox.xml
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.vbprojAssemblyReference.cache
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.Form1.resources
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.Resources.resources
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.vbproj.GenerateResource.cache
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.vbproj.CoreCompileInputs.cache
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.exe
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.xml
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.pdb
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\bin\Debug\Example5_PictureBox.exe.config
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\bin\Debug\Example5_PictureBox.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\bin\Debug\Example5_PictureBox.pdb
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\bin\Debug\Example5_PictureBox.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.Form1.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.Resources.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.vbproj.GenerateResource.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.vbproj.CoreCompileInputs.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example5_PictureBox\obj\Debug\Example5_PictureBox.pdb

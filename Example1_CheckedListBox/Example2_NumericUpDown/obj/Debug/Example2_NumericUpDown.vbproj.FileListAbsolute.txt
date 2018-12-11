@@ -1,0 +1,23 @@
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\bin\Debug\Example2_NumericUpDown.exe.config
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\bin\Debug\Example2_NumericUpDown.exe
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\bin\Debug\Example2_NumericUpDown.pdb
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\bin\Debug\Example2_NumericUpDown.xml
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.vbprojAssemblyReference.cache
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.Form1.resources
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.Resources.resources
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.vbproj.GenerateResource.cache
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.vbproj.CoreCompileInputs.cache
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.exe
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.xml
+F:\2-2561\Special Topic (S.3)\Coding\week5\Example (Code)\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.pdb
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\bin\Debug\Example2_NumericUpDown.exe.config
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\bin\Debug\Example2_NumericUpDown.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\bin\Debug\Example2_NumericUpDown.pdb
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\bin\Debug\Example2_NumericUpDown.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.Form1.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.Resources.resources
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.vbproj.GenerateResource.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.vbproj.CoreCompileInputs.cache
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.exe
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.xml
+C:\Users\58121057-2\Source\Repos\VB-Class-5\Example1_CheckedListBox\Example2_NumericUpDown\obj\Debug\Example2_NumericUpDown.pdb
